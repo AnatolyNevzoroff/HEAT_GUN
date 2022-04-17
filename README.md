@@ -10,8 +10,9 @@ https://youtu.be/dfl3h9oyuvw
 
 Sorry, comments for video only in Russian.
 
-I reworked the old version of Sketch.
+I reworked the old version of the firmware. 
 New version 1.7 released!
+The firmware has the end of LGT8F386 adapted to this type of inexpensive Chinese microcontroller.
 
 - Fixed errors with timers.
 - Improved heater cooling function based on.
