@@ -10,10 +10,12 @@ https://youtu.be/dfl3h9oyuvw
 
 Sorry, comments for video only in Russian.
 
-I finished the old version of Sketch. New version 1.7 released!
+I reworked the old version of Sketch.
+New version 1.7 released!
+
 - Fixed errors with timers.
 - Improved heater cooling function based on.
-- reduced the accuracy of the installation of the integration coefficient.
+- Reduced the accuracy of the installation of the integration coefficient.
 - Added the ability to change the brightness of the indicator.
 - Fixed other insignificant errors.
 
