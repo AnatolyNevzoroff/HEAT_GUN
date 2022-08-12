@@ -8,6 +8,8 @@ https://youtu.be/lipidw4yk6y
 
 https://youtu.be/dfl3h9oyuvw
 
+https://youtu.be/bxn5Y_1xk_o
+
 Sorry, comments for video only in Russian.
 
 I reworked the old version of the firmware. 
