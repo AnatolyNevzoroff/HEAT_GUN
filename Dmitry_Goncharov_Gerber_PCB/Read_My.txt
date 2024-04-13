@@ -1,0 +1,4 @@
+Один из подписчиков канала, Дмитрий Гончаров, повторил мою самоделку, но отказался от модульного размещения, и собрал все компоненты на одной плате, Gerber файлы которой любезно предоставил для всех желающих повторить термофен в таком варианте.
+
+
+One of the channel subscribers, Dmitry Goncharov, repeated my homemade product, but abandoned the modular arrangement, and assembled all the components on one board, the Gerber files of which kindly provided for everyone who wants to repeat the hot air gun in this version.
