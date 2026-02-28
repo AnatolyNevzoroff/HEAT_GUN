@@ -13,8 +13,8 @@ https://youtu.be/bxn5Y_1xk_o
 Sorry, comments for video only in Russian.
 
 I reworked the old version of the firmware. 
-New version 1.7 released!
-The firmware has the end of LGT8F386 adapted to this type of inexpensive Chinese microcontroller.
+New version 2.0 is available!
+This version supports both types of processors and also includes some changes to the default settings.
 
 - Fixed errors with timers.
 - Improved heater cooling function based on.
